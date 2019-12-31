@@ -1,0 +1,3 @@
+[submodule "GOST_Altium_Library"]
+	path = GOST_Altium_Library
+	url = https://github.com/Grey-stud/GOST_Altium_Library
